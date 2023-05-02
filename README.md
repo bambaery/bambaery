@@ -24,3 +24,8 @@ I am a Software Engineering student at Thammasat School of Engineering, Thammasa
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-181717?style=flat-square&logo=microsoft-azure)
 ![Vmware](https://img.shields.io/badge/Vmware-181717?style=flat-square&logo=vmware)
 ![VSphere](https://img.shields.io/badge/VSphere-181717?style=flat-square&logo=vmware)
+
+### Partwork 
+
+- Designer of [Fortal](https://github.com/Maszz/Fortal) and frontend developments.
+- Designer of [Karenda](https://github.com/Maszz/Kar-nda) and frontend developments.
